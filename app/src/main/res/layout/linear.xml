@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.lxs.percent.view.PercentLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/reative_txt1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@color/Chartreuse1"
+        android:textColor="@android:color/black"
+        app:layout_marginBottomPercent="5%"
+        android:gravity="center"
+        android:text="w:50%,h:10%"
+        app:layout_heightPercent="10%"
+        app:layout_widthPercent="50%" />
+
+    <TextView
+        android:id="@+id/reative_txt2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@color/Chartreuse1"
+        android:textColor="@android:color/black"
+        app:layout_marginBottomPercent="5%"
+        android:gravity="center"
+        android:text="w:60%,h:20%"
+        app:layout_heightPercent="20%"
+        app:layout_widthPercent="70%" />
+
+    <TextView
+        android:id="@+id/reative_txt3"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@color/Chartreuse1"
+        android:textColor="@android:color/black"
+        app:layout_marginBottomPercent="5%"
+        android:gravity="center"
+        android:text="w:90%,h:30%"
+        app:layout_heightPercent="30%"
+        app:layout_widthPercent="90%" />
+
+
+</com.lxs.percent.view.PercentLinearLayout>

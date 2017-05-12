@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="Cyan1">#00FFFF</color>
+    <color name="Chartreuse1">#7FFF00</color>
+    <color name="Blue">#0000FF</color>
+    <color name="Yellow1">#FFFF00</color>
+    <color name="IndianRed1">#FF6A6A</color>
+    <color name="DeepPink">#FF1493</color>
+    <color name="DarkViolet">#9400D3</color>
+
+</resources>
